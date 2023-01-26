@@ -1,0 +1,29 @@
+1. INSTALL LARAVEL & VITE
+https://techvblogs.com/blog/how-to-install-vue-3-in-laravel-9-with-vite
+
+2. INSTALL TAILWIND 
+https://larainfo.com/blogs/install-tailwind-css-3-in-laravel-9-with-vite-3
+
+3. INSTALL FORTIFY
+https://laravel.com/docs/9.x/fortify#when-should-i-use-fortify
+
+Create User
+-----------
+
+DB::table('users')->insert(['name' => 'Marcel Stadelmann', 'email' => 'm@marceli.to', 'password' => Hash::make('7aq31rr')])
+
+Composer & PHP binary
+----------------------
+
+/opt/php81/bin/php
+
+composer2
+
+
+
+SSH
+---
+Benutzer: schaeub
+Password: 9o4^94nEk
+
+ssh schaeub@80.74.152.40 -p 2121
