@@ -17,7 +17,7 @@ Composer & PHP binary
 
 /opt/php81/bin/php
 
-composer2
+composer2 install --optimize-autoloader --no-dev --ignore-platform-reqs
 
 
 
