@@ -1,14 +1,14 @@
 {
   "resources/js/landing.css": {
-    "file": "assets/landing-c047d934.css",
+    "file": "assets/landing-ab95005a.css",
     "src": "resources/js/landing.css"
   },
   "resources/js/landing.js": {
-    "file": "assets/landing-f27e53d0.js",
+    "file": "assets/landing-2831ff8f.js",
     "src": "resources/js/landing.js",
     "isEntry": true,
     "css": [
-      "assets/landing-c047d934.css"
+      "assets/landing-ab95005a.css"
     ]
   }
 }
